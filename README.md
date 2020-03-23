@@ -6,6 +6,8 @@ mv ~/NetBeansProjects/OAK4_MID-master/ ~/NetBeansProjects/OAK4_MID
 ~/mydomain/startWebLogic.sh
 ```
 
+Clone or download -> Download ZIP -> Ok
+
 Open NetBeans -> File -> Open Project -> Select OAK4_MID -> Open Project
 
 Right-click OAK4_MID -> Test RESTful Web Services -> Ok
